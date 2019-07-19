@@ -1,0 +1,13 @@
+{
+    "name": "zorder",
+    "title": "Z Order",
+    "description": "Allows to send a tile to the front/back on the Z order of a scene.",
+    "version": "0.1",
+    "author": "KaKaRoTo",
+    "scripts": ["./zorder.js"],
+    "styles": [],
+    "packs": [],
+    "url": "https://github.com/kakaroto/fvtt-module-zorder",
+    "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-zorder/master/zorder/module.json",
+    "download": "https://github.com/kakaroto/fvtt-module-zorder/raw/master/zorder.zip"
+}
